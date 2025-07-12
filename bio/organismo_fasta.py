@@ -4,4 +4,4 @@ class OrganismoFasta:
         self.id = id
         self.nome = nome
         self.sequencia = sequencia
-
+        print()
